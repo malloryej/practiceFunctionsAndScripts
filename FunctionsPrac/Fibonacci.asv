@@ -1,0 +1,12 @@
+function [sequence] = Fibonacci(num)
+% takes in a length and returns a sequence with that many Fibonacci values
+sequence = [0]
+if num == 1
+    sequence = [0]
+elseif
+    sequence = [0, 1]
+else
+    for i = 3:num
+        sequence 
+end
+end
